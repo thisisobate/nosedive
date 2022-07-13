@@ -34,7 +34,7 @@ Data management. Due to the multiple endpoint for different resources, it was ha
 
 > On a scale of 1 to 10, are you satisfied with the result? Is there anything that needs more attention?
 
-I'll rate it an 8. I'm quite satisfied with the result. I think the `media API` needs to have a `media alternate text` included in the API response. This would be super useful for implementing accessibility appropriately.
+I'll rate it an 8. I'm quite satisfied with the result. I think the `media API` needs to have a `media alternate text` included in the API response. This would be super useful for implementing accessibility appropriately. Also, I need to make the images to load fast.
 
 > How long did it take you to implement this development ? Was it longer or shorter than what you initially expected?
 
